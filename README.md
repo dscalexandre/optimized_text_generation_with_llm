@@ -1,7 +1,7 @@
 # GENERATIVE AI AND NATURAL LANGUAGE PROCESSING
 ## LLM MISTRAL-7B INSTRUCT - OPTIMIZED TEXT GENERATION
 
-Este projeto utiliza o LLM Mistral-7B-Instruct com o objetivo de otimizar a criação de conteúdo automatizado. Suas aplicações incluem a geração de descrições de produtos, redação de e-mails de marketing, personalização de campanhas publicitárias e potencial uso em atendimento ao cliente por meio do desenvolvimento de um chatbot inteligente.
+Este projeto emprega o LLM Mistral-7B-Instruct com foco na melhoria da criação automatizada de conteúdo. Entre suas aplicações estão a geração de descrições de produtos, elaboração de e-mails promocionais, customização de campanhas publicitárias e uso potencial em atendimento automatizado (chatbot).
 
 &nbsp;  
 
